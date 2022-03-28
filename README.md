@@ -11,4 +11,4 @@
 Il s'agit d'un challenge composé de deux exercices qui dure 1h30 (90 minutes). Le niveau des exercice depend du test choisi (basic, advanced). 
  Voici les exercices que j'ai eu :
 
-  * 1. [Dominant Cells](https://github.com/Wiiz971/HackerRank/blob/main/Test/Dominant%20Cells.py) et [String Transformation](https://github.com/Wiiz971/HackerRank/blob/main/Test/String%20Transformation.py)
+  * [Dominant Cells](https://github.com/Wiiz971/HackerRank/blob/main/Test/Dominant%20Cells.py) et [String Transformation](https://github.com/Wiiz971/HackerRank/blob/main/Test/String%20Transformation.py)
