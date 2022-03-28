@@ -12,3 +12,4 @@ Il s'agit d'un challenge composé de deux exercices qui dure 1h30 (90 minutes). 
  Voici les exercices que j'ai eu :
 
   * [Dominant Cells](https://github.com/Wiiz971/HackerRank/blob/main/Test/Dominant%20Cells.py) et [String Transformation](https://github.com/Wiiz971/HackerRank/blob/main/Test/String%20Transformation.py)
+  * [Vowel-Substring](https://github.com/Wiiz971/HackerRank/blob/main/Test/Vowel-substring) & an other
